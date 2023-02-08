@@ -7,7 +7,7 @@
         }
     ],
     "autoload": {
-        "psr-4": {"ComposerUp\\HelloWorld\\": "src/"}
+        "psr-4": {"ComposerUp\\": "src/"}
     },
     "require": {}
 }
