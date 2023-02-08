@@ -1,0 +1,10 @@
+{
+    "name": "jimmy-admin/composer-up",
+    "authors": [
+        {
+            "name": "jimmyMisa",
+            "email": "jimmysamuel_andriamparany@yahoo.com"
+        }
+    ],
+    "require": {}
+}
